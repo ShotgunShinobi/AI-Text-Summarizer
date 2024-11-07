@@ -1,5 +1,5 @@
 # AI Text Summarizer 
- A text summerizer leveraging LLMs.
+ A text summarizer leveraging LLMs.
 
 Requirements:
  
@@ -9,5 +9,5 @@ Requirements:
 4. Device with enough VRAM to load the model.
 
 
-Note: Steps 2,3 can be avoided if run on a collab Notebook.
+Note: Step 3 can be avoided if run on a collab Notebook.
  
